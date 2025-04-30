@@ -1,0 +1,2 @@
+Create an interactive dashboard to track sales performance, profit trends, and product category analysis across different regions and time periods.
+
